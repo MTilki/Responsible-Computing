@@ -1,0 +1,23 @@
+{
+  "name": "EcoRide",
+  "short_name": "EcoRide",
+  "description": "Eco-friendly carpooling for a cleaner planet.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#e5e8b6",
+  "theme_color": "#3d5a80",
+  "orientation": "portrait",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
